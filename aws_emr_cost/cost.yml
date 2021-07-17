@@ -1,0 +1,59 @@
+---
+prices:
+    c1.medium:
+      ec2: 0.130
+      emr: 0.030
+    c1.xlarge:
+      ec2: 0.520
+      emr: 0.120
+    c3.xlarge:
+      ec2: 0.210
+      emr: 0.053
+    m1.small:
+      ec2: 0.044
+      emr: 0.011
+    m1.medium:
+      ec2: 0.087
+      emr: 0.022
+    m1.large:
+      ec2: 0.175
+      emr: 0.044
+    m1.xlarge:
+      ec2: 0.350
+      emr: 0.088
+    m2.xlarge:
+      ec2: 0.245
+      emr: 0.062
+    m2.4xlarge:
+      ec2: 0.980
+      emr: 0.246
+    m3.xlarge:
+      ec2: 0.266
+      emr: 0.070
+    r3.2xlarge:
+      ec2: 0.665
+      emr: 0.180
+    r3.4xlarge:
+      ec2: 1.330
+      emr: 0.270
+    r3.8xlarge:
+      ec2: 2.660
+      emr: 0.270
+    m4.2xlarge:
+      ec2: 0.400
+      emr: 0.120
+    m4.xlarge:
+      ec2: 0.800
+      emr: 0.240
+    m3.2xlarge:
+      ec2: 0.532
+      emr: 0.140
+    r3.xlarge:
+      ec2: 0.333
+      emr: 0.090
+    m4.4xlarge:
+      ec2: 0.800
+      emr: 0.240
+    m4.10xlarge:
+      ec2: 2.000
+      emr: 0.270
