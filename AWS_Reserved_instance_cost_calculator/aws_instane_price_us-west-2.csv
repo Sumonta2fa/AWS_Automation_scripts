@@ -1,0 +1,47 @@
+Region Name,Instance Name,Instance Id,Instance Type,VPC Id,Block Device Name,Platform,State,Availability Zone,Reserved/On-demand,Instance Price/hour,Instance Price/month,Instance Price/year,Volume Price/year,Total Price/year
+us-west-2,vpc-prod-redis02-usw,i-cee390c5,r3.2xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdp']",Linux/UNIX (Amazon VPC),running,us-west-2a,On-demand,0.233,167.76000000000002,2041.0800000000002,144.0,2185.08
+us-west-2,vpc-prod-vertex09-usw,i-16c344e1,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex11-usw,i-11c344e6,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-kafka05-usw,i-eb34d632,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,vpc-prod-kafka06-usw,i-ea34d633,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,vpc-prod-kafka07-usw,i-ed34d634,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,vpc-prod-kafka08-usw,i-ec34d635,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,mw-phabricator,i-22a8aad5,m1.xlarge,None,['/dev/sda1'],Linux/UNIX,running,us-west-2a,Reserved,0.35,251.99999999999997,3066.0,24.0,3090.0
+us-west-2,mobilewalla-1,i-fa3102c8,m1.xlarge,None,Instance Store,Linux/UNIX,running,us-west-2a,Reserved,0.35,251.99999999999997,3066.0,0,3066.0
+us-west-2,vpc-prod-vertex-trackers-api02-usw,i-387cbf34,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-trackers01-usw,i-79b0c072,m3.large,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.113,81.36,989.88,12.0,1001.88
+us-west-2,vpc-prod-kafka-zookeeper01-usw,i-e7fd8622,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,Chef_server_for_automation,i-54c1ef61,m1.large,None,['/dev/sda1'],Linux/UNIX,running,us-west-2a,On-demand,0.059,42.48,516.8399999999999,18.0,534.8399999999999
+us-west-2,vpc-prod-kafka04-usw,i-a0e5c465,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,vpc-prod-kafka-zookeeper03-usw,i-a3e5c466,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,vpc-prod-kafka-zookeeper02-usw,i-a2e5c467,m3.xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdd', '/dev/sde', '/dev/sdf']",Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.266,191.52,2330.1600000000003,1824.0,4154.16
+us-west-2,vpc-prod-vertex01-usw,i-ef8ae9e4,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,12.0,3691.2
+us-west-2,vpc-prod-vertex03-usw,i-ee8ae9e5,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,12.0,3691.2
+us-west-2,vpc-prod-redis02-usw-slave03,i-232f92d4,r3.2xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdp']",Linux/UNIX (Amazon VPC),running,us-west-2a,On-demand,0.233,167.76000000000002,2041.0800000000002,144.0,2185.08
+us-west-2,owncloud-new,i-5a8e06f5,m1.medium,vpc-2c54ab49,"['/dev/sdc', '/dev/sda1']",Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.087,62.63999999999999,762.1199999999999,72.0,834.1199999999999
+us-west-2,vpc-jump-server-prod-usw,i-d47d1ddf,m3.large,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.113,81.36,989.88,12.0,1001.88
+us-west-2,vpc-prod-trackers05-usw,i-18a2a415,m3.large,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.113,81.36,989.88,24.0,1013.88
+us-west-2,vpc-prod-vertex13-usw,i-f5960f30,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex15-usw,i-f2960f37,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-rabbitmq03-usw,i-20c6c62d,m3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,On-demand,0.209,150.48,1830.84,24.0,1854.84
+us-west-2,vpc-prod-trackers03-usw,i-8c67b283,m3.large,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2c,On-demand,0.052,37.44,455.52,12.0,467.52
+us-west-2,vpc-prod-tracker-handler01-usw,i-43c86549,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex05-usw,i-28070e23,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex07-usw,i-27070e2c,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-trackers04-usw,i-39ddcb32,m3.large,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,On-demand,0.052,37.44,455.52,24.0,479.52
+us-west-2,vpc-prod-vertex10-usw,i-0c7d30fa,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex12-usw,i-0d7d30fb,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex02-usw,i-d1f895dc,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,12.0,3691.2
+us-west-2,vpc-prod-vertex04-usw,i-d0f895dd,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,12.0,3691.2
+us-west-2,vpc-prod-trackers02-usw,i-c42a5bc9,m3.large,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,On-demand,0.052,37.44,455.52,12.0,467.52
+us-west-2,vpc-prod-vertex-trackers-api01-usw,i-b4e24fbe,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,usw-main,i-3721e600,m1.xlarge,None,"['/dev/sda1', '/dev/sdg']",Linux/UNIX,running,us-west-2a,On-demand,0.117,84.24000000000001,1024.92,24.0,1048.92
+us-west-2,vpc-prod-vertex14-usw,i-3cf142fa,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex16-usw,i-3df142fb,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-rabbitmq01-usw,i-ef9af9e4,m3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2a,On-demand,0.209,150.48,1830.84,12.0,1842.84
+us-west-2,vpc-prod-vertex06-usw,i-2c774d21,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,vpc-prod-vertex08-usw,i-23774d2e,c3.2xlarge,vpc-2c54ab49,['/dev/sda1'],Linux/UNIX (Amazon VPC),running,us-west-2b,Reserved,0.42,302.4,3679.2,24.0,3703.2
+us-west-2,Crawler_for_itunes/facebook/twitter,i-60326b52,m1.medium,None,Instance Store,Linux/UNIX,running,us-west-2a,Reserved,0.087,62.63999999999999,762.1199999999999,0,762.1199999999999
+us-west-2,vpc-prod-redis02-usw-slave01,i-a68792ad,r3.2xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdp']",Linux/UNIX (Amazon VPC),running,us-west-2a,On-demand,0.233,167.76000000000002,2041.0800000000002,144.0,2185.08
+us-west-2,vpc-prod-redis02-usw-slave02,i-de8792d5,r3.2xlarge,vpc-2c54ab49,"['/dev/sda1', '/dev/sdf', '/dev/sdp']",Linux/UNIX (Amazon VPC),running,us-west-2a,On-demand,0.233,167.76000000000002,2041.0800000000002,204.0,2245.08
+us-west-2,Server_2_hosting_Mobilewalla_portal,i-ce8f20fb,m1.xlarge,None,Instance Store,Linux/UNIX,running,us-west-2c,On-demand,0.117,84.24000000000001,1024.92,0,1024.92

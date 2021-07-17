@@ -1,0 +1,27 @@
+Instance Type ,Platform,Ondemand Cost/hour,Reserved Cost/hour,Region
+t2.micro,Linux,0.012,0.005,us
+c3.2xlarge,Linux,0.42,0.157,us
+c3.2xlarge,Windows,0.752,0.437,us
+c4.4xlarge,Linux,0.796,0.31,us
+m1.large,Linux,0.175,0.059,us
+m1.medium,Linux,0.087,0.029,us
+m1.small,Linux,0.044,0.015,us
+m1.xlarge,Linux,0.35,0.117,us
+m2.xlarge,Linux,0.245,0.056,us
+m3.large,Linux,0.113,0.052,us
+m3.large,Windows,0.259,0.127,us
+m3.xlarge,Linux,0.266,0.105,us
+m3.2xlarge,Linux,0.532,0.209,us
+m4.large,Windows,0.203,0.122,us
+m4.large,Linux,0.108,0.040,us
+r3.2xlarge,Linux,0.665,0.233,us
+r3.xlarge,Linux,0.333,0.117,us
+c3.2xlarge,Linux,0.529,0.225,ap
+c4.4xlarge,Linux,0.924,0.389,ap
+m1.large,Linux,0.233,0.082,ap
+m1.medium,Linux,0.117,0.041,ap
+m1.xlarge,Linux,0.467,0.164,ap
+m3.large,Linux,0.196,0.074,ap
+m3.xlarge,Linux,0.392,0.147,ap
+m3.2xlarge,Linux,0.784,0.294,ap
+r3.xlarge,Linux,0.399,0.168,ap
